@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+web/bundles/
+app/bootstrap.php.cache
+app/cache/*
+app/logs/*
+build/
+vendor
+composer.phar
+=======
 # Bootstrap
 app/bootstrap*
 
@@ -11,6 +20,4 @@ web/bundles/*
 # Configuration files
 app/config/parameters.ini
 app/config/parameters.yml
-
-composer.phar
-build/
+>>>>>>> 1533d877233aa4345da91dfc218d523775d04570
